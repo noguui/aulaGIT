@@ -4,3 +4,4 @@
 #hoje é dia 27
 #labubu
 #hoje é dia 04
+print("hello mundo estranho")
