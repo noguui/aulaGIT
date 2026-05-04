@@ -5,3 +5,4 @@
 #labubu
 #hoje é dia 04
 #agora no original
+print("hello word")
