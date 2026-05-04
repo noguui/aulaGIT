@@ -5,3 +5,4 @@
 #labubu
 #hoje é dia 04
 print("hello mundo estranho")
+print("estranho mesmo")
